@@ -1,5 +1,5 @@
 % Samuel Taylor and Ryan Smith, 2021
-
+% test
 % Three-arm bandit fitting script --- 
 %   Adapted for Cooperation Task, CAL 2023
 % Fit a given subject over all 20 blocks

@@ -1,5 +1,5 @@
 % Samuel Taylor and Ryan Smith, 2021
-
+% test
 % Auxiliary function for creating MDP model for active learning task
 % Input:
 % Rprob     = true reward prob in blocks
